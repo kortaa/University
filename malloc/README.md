@@ -1,1 +1,1 @@
-Own implementation of malloc using segregated list.
+Implemented custom 'malloc' using segregated list for efficient memory allocation and reduced fragmentation. Optimized memory utilization by managing separate linked lists for different-sized blocks. Incorporated coalescing to minimize fragmentation and ensured robust error handling. A valuable addition to C programming for improved memory management.
